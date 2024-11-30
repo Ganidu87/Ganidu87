@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Ganidu87
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Welcome to My GitHub Profile!
+I’m a developer passionate about AI, automation, and cryptocurrency. 🚀
 
-<!---
-Ganidu87/Ganidu87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Featured Projects
+- [Project 1](https://github.com/your-repo) - Brief description.
+- [Project 2](https://github.com/your-repo) - Brief description.
+
+## Contact Me
+- 🌐 [My Website](https://your-website.com)
+- 📧 Email:tanujsenash@gmail.com
